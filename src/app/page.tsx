@@ -3,7 +3,7 @@ import Logo from "./components/logo";
 export default function Home() {
   return (
     <div className="min-h-screen flex flex-col bg-white">
-      <div className="flex flex-row justify-between py-2">
+      <div className="flex flex-row py-2">
         <div>
           <Logo />
         </div>
